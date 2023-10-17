@@ -399,3 +399,17 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_TREVOR]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_RIKU]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 110
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
