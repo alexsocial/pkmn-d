@@ -40,17 +40,29 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 004 (83) - Route 005 (84)
-83,North,0,84,South,0
-# Healrule City (85) - Route 005 (84)
-85,South,15,84,North,0
-# Arbor City (22) - Route 004 (83)
-22,North,31,83,South,0
+# Route 008 (89) - Route 006 (87)
+89,24,68,87,0,0
+# Route 006 (87) - Route 007 (88)
+87,57,0,88,0,1
+# Arbor City Filler (103) - Cragmouth City (90)
+103,16,0,90,0,261
+# Arbor City (22) - Arbor City Filler (103)
+22,North,2,103,South,0
+# Route 004 (83) - Arbor City Filler (103)
+83,West,34,103,East,0
+# Route 005 (84) - Arbor City Filler (103)
+84,West,109,103,East,0
 # Route 003 (82) - Arbor City (22)
-82,East,0,22,West,8
+82,East,0,22,West,7
+# Route 004 (83) - Arbor City (22)
+83,South,0,22,North,22
 # Route 002 (81) - Route 003 (82)
-81,East,4,82,West,0
+81,East,2,82,West,0
 # Route 001 (80) - Route 002 (81)
-80,South,2,81,North,0
+80,South,0,81,North,2
 # Root Town (48) - Route 001 (80)
-48,East,0,80,West,8
+48,East,0,80,West,6
+# Route 005 (84) - Route 004 (83)
+84,South,0,83,North,0
+# Healrule City (85) - Route 005 (84)
+85,South,13,84,North,0

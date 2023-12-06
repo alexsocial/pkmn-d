@@ -309,3 +309,136 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+#-------------------------------
+[080] # Route 001
+LandMorning,21
+    25,PICHU,4,6
+    25,TOGEPI,4,6
+    25,SUNKERN,4,6
+    25,CHINGLING,4,6
+Land,21
+    12,BIDOOF,4,6
+    12,FLETCHLING,4,6
+    12,PIDGEY,4,6
+    12,PIDOVE,4,6
+    12,RATTATA,4,6
+    12,STARLY,4,6
+    12,TAILLOW,4,6
+    4,AIPOM,4,6
+LandNight,21
+    30,HOOTHOOT,4,6
+    30,RATTATA,4,6
+    15,WOOLOO,4,6
+    10,BUNEARY,4,6
+    10,MINCCINO,4,6
+    5,JIGGLYPUFF,4,6
+#-------------------------------
+[081] # Route 002
+Land,21
+    30,PATRAT,5,8
+    20,PANSAGE,5,8
+    20,PANSEAR,5,8
+    19,PANPOUR,5,8
+    10,LOTAD,5,8
+    1,EEVEE,5,8
+LandNight,21
+    40,HOPPIP,5,8
+    25,BELLSPROUT,5,8
+    15,AUDINO,5,8
+    15,SHINX,5,8
+    5,POOCHYENA,5,8
+#-------------------------------
+[082] # Route 003
+Land,21
+    25,CHERUBI,6,10
+    20,GROWLITHE,6,10
+    20,MANKEY,6,10
+    20,VULPIX,6,10
+    10,RATTATA_1,6,10
+    5,COMBEE,6,10
+LandNight,21
+    40,ZIGZAGOON,6,10
+    25,TRUBBISH,6,10
+    20,CUTIEFLY,6,10
+    10,DRIFLOON,6,10
+    5,ZORUA,6,10
+Water,2
+    60,MAGIKARP,14,19
+    30,STARYU,15,16
+    10,GOLDEEN,14,16
+#-------------------------------
+[083] # Route 004
+Land,21
+    25,GRUBBIN,16,19
+    25,YUNGOOS,16,19
+    25,METAPOD,16,19
+    10,SALANDIT,16,19
+    10,SCRAGGY,16,19
+    5,VANILLISH,16,19
+LandNight,21
+    30,SPINARAK,16,19
+    20,PANCHAM,16,19
+    20,MORELULL,16,19
+    20,TRUMBEAK,16,19
+    5,NIDORINO,16,19
+    5,NIDORINA,16,19
+#-------------------------------
+[084] # Route 005
+LandMorning,21
+    50,COMBEE,20,22
+    30,BUTTERFREE,20,22
+    20,BEEDRILL,20,22
+Land,21
+    20,SHELMET,20,22
+    20,KARRABLAST,20,22
+    18,SWIRLIX,20,22
+    15,NUZLEAF,20,22
+    15,BUDEW,20,22
+    10,APPLIN,20,22
+    2,LOMBRE,21,23
+LandNight,21
+    30,TYMPOLE,20,22
+    20,TOXEL,20,22
+    20,JOLTIK,20,22
+    20,PURRLOIN,20,22
+    8,NINCADA,20,22
+    2,ARIADOS,22,23
+#-------------------------------
+[087] # Route 006
+Cave,5
+    20,GEODUDE,25,27
+    20,GRAVELER,25,27
+    15,RHYHORN,25,27
+    15,ROLYCOLY,25,27
+    15,SLUGMA,25,27
+    13,SANDSHREW,25,27
+    2,LARVITAR,25,27
+#-------------------------------
+[088] # Route 007
+Cave,5
+    50,DIGLETT,28,29
+    15,ONIX,28,29
+    15,BALTOY,28,29
+    10,HIPPOPOTAS,28,29
+    5,DRILBUR,28,29
+    5,STUNFISK_1,28,29
+#-------------------------------
+[089] # Route 008
+Cave,5
+    40,BUNNELBY,28,30
+    20,SILICOBRA,28,30
+    20,SANDYGAST,28,30
+    16,GOLETT,28,30
+    2,GIBLE,28,30
+    2,PALPITOAD,28,30
+#-------------------------------
+[091] # Cragmouth Peak
+LandMorning,21
+    100,SKIDDO,29,30
+Land,21
+    50,GLOOM,29,30
+    30,WHIRLIPEDE,29,30
+    20,LARVESTA,29,30
+LandNight,21
+    50,SAWK,29,30
+    50,THROH,29,30

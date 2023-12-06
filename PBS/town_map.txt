@@ -34,3 +34,12 @@ Point = 22,16,Faraday Island,,,,,52
 Name = Tiall
 Filename = mapRegion1.png
 Point = 13,16,Here
+#-------------------------------
+[2]
+Name = Dokia
+Filename = dokiaMap.png
+Point = 15,18,Root Town,Palm's Cave,48,14,20
+Point = 16,18,Route 001
+Point = 16,17,Route 002
+Point = 17,17,Route 003
+Point = 18,17,Arbor City,Arbor City Gym,22,60,47

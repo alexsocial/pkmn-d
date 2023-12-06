@@ -1,127 +1,171 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[CAMPER,Liam]
-LoseText = A very good battle, indeed!
-Pokemon = DIGLETT,10
-Pokemon = BONSLY,11
-#-------------------------------
-[LEADER_Brock,Brock]
-Items = FULLRESTORE,FULLRESTORE
-LoseText = ...
-Pokemon = GEODUDE,12
-    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
-    AbilityIndex = 0
-    Gender = male
-    IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
-    Name = Rocky
-    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
-    AbilityIndex = 0
-    Item = SITRUSBERRY
-    Gender = male
-    IV = 20,20,20,20,20,20
-    Shiny = true
-    Ball = HEAVYBALL
-#-------------------------------
-[TEAMROCKET_M,Grunt,1]
-LoseText = You're too good for me!
-Pokemon = WEEPINBELL,21
-    Shadow = true
-#-------------------------------
-[TEAMROCKET_F,Grunt,1]
-LoseText = You're too good for me!
-Pokemon = BURMY,19
-Pokemon = WINGULL,19
-Pokemon = ELECTABUZZ,20
-    Shadow = true
-#-------------------------------
-[YOUNGSTER,Ben]
-LoseText = Aww, I lost.
-Pokemon = RATTATA,11
-Pokemon = EKANS,11
-#-------------------------------
-[CAMPER,Jeff]
-LoseText = A very good battle, indeed!
-Pokemon = SPEAROW,16
-Pokemon = SENTRET,16
-#-------------------------------
-[CAMPER,Jeff,1]
-LoseText = You beat me again!
-Pokemon = FEAROW,29
-Pokemon = FURRET,29
-#-------------------------------
-[PICNICKER,Susie]
-LoseText = Defeated! Oh my!
-Pokemon = MEOWTH,18
-#-------------------------------
-[PICNICKER,Susie,1]
-LoseText = Defeated! Oh my!
-Pokemon = PERSIAN,32
-#-------------------------------
-[HIKER,Ford]
-LoseText = You're too good for me!
-Pokemon = MACHOP,19
-#-------------------------------
-[FISHERMAN,Andrew]
-LoseText = Washed out!
-Pokemon = MAGIKARP,14
-Pokemon = MAGIKARP,18
-#-------------------------------
-[BEAUTY,Bridget]
-LoseText = My Skitty!
-Pokemon = SKITTY,18
-#-------------------------------
-[LASS,Crissy]
-LoseText = You didn't have to win so convincingly!
-Pokemon = PLUSLE,17
-Pokemon = MINUN,17
-#-------------------------------
-[COOLCOUPLE,Alice & Bob]
-LoseText = Our teamwork failed!
-Pokemon = TURTWIG,19
-Pokemon = CHIMCHAR,19
-#-------------------------------
-[POKEMONTRAINER_May,May]
-LoseText = ...
-Pokemon = COMBUSKEN,19
-#-------------------------------
-[SWIMMER2_F,Ariel]
-LoseText = Washed out!
-Pokemon = STARYU,15
-Pokemon = GOLDEEN,11
-#-------------------------------
-[RIVAL1,Blue]
-LoseText = ...
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
-#-------------------------------
-[RIVAL1,Blue,1]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
-#-------------------------------
-[RIVAL1,Blue,2]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
-#-------------------------------
-[CHAMPION,Blue]
-LoseText = ...
-Pokemon = VENUSAUR,63
-    Item = SITRUSBERRY
-Pokemon = CHARIZARD,63
-    Item = SITRUSBERRY
-Pokemon = BLASTOISE,63
-    Item = SITRUSBERRY
-#-------------------------------
 [LEADER_TREVOR,Trevor]
-LoseText = ...
-Pokemon = BULBASAUR,10
-Pokemon = IVYSAUR,10
+LoseText = You got me!
+Pokemon = SKIPLOOM,16
+    Moves = SOLARBEAM,HIDDENPOWER,LEECHSEED,SUNNYDAY
+    AbilityIndex = 0
+    Item = FOCUSSASH
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = NETBALL
+Pokemon = TANGELA,17
+    Moves = RAZORLEAF,POISONPOWDER,SOLARBEAM,INGRAIN
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = NETBALL
+Pokemon = SUNFLORA,18
+    Name = Drake
+    Moves = COTTONGUARD,RAZORLEAF,POUND,GRASSWHISTLE
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    SuperShiny = true
+    Ball = NETBALL
 #-------------------------------
 [LEADER_RIKU,Riku]
+LoseText = And that's that.
+Pokemon = STUFFUL,22
+    Moves = SWORDSDANCE,BRICKBREAK,THUNDERPUNCH,MEGAPUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = HEALBALL
+Pokemon = ZORUA,23
+    Form = 1
+    Moves = HEX,SWIFT,DARKPULSE,FAKETEARS
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = HEALBALL
+Pokemon = STARAVIA,25
+    Moves = AERIALACE,QUICKATTACK,SUBSTITUTE,UTURN
+    AbilityIndex = 0
+	Name = Luna
+    Gender = female
+    IV = 20,20,20,20,20,20
+    SuperShiny = true
+    Ball = HEALBALL
+Pokemon = CHANSEY,23
+    Moves = THUNDERWAVE,COVET,PROTECT,LIFEDEW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = HEALBALL
+#-------------------------------
+[LEADER_LINCOLN,Lincoln]
+LoseText = Guess I've been rocked.
+Pokemon = BOLDORE,32
+    Moves = ROCKSLIDE,PROTECT,STEALTHROCK,EARTHQUAKE
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = DUSKBALL
+Pokemon = BINACLE,33
+    Moves = RAZORSHELL,MUDSLAP,ROCKPOLISH,SMACKDOWN
+    AbilityIndex = 2
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = DUSKBALL
+Pokemon = LAIRON,33
+    Moves = IRONDEFENSE,ROCKTOMB,HEAVYSLAM,SHADOWCLAW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = DUSKBALL
+Pokemon = AERODACTYL,34
+    Moves = DUALWINGBEAT,IRONTAIL,STONEEDGE,ROOST
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    SuperShiny = true
+    Ball = DUSKBALL
+	Name = Stoner
+#-------------------------------
+[POKEMONRANGER_F,Emily]
+LoseText = I guess you are strong enough.
+Pokemon = SPRIGATITO,14
+    Moves = SCRATCH,LEAFAGE,BITE,QUICKATTACK
+    AbilityIndex = 0
+Pokemon = SIMISAGE,15
+    Moves = LEECHSEED,FURYSWIPES,BULLETSEED,WORKUP
+    AbilityIndex = 0
+#-------------------------------
+[POKEMONRANGER_M,Charlie]
+LoseText = How could I lose?
+Pokemon = RATTATA,6
+    Moves = QUICKATTACK,TACKLE,LEER
+    AbilityIndex = 0
+Pokemon = TOGEPI,6
+    Moves = GROWL,POUND,SWEETKISS
+    AbilityIndex = 0
+#-------------------------------
+[BUGCATCHER,Timmy]
+LoseText = My bugs...
+Pokemon = PARAS,6
+    Moves = BUGBITE,SCRATCH,STUNSPORE
+    AbilityIndex = 0
+Pokemon = CATERPIE,6
+    Moves = STRINGSHOT,TACKLE
+    AbilityIndex = 0
+#-------------------------------
+[HIKER,Mike]
+LoseText = Alright, you can pass.
+Pokemon = MANKEY,8
+    Moves = SCRATCH,LEER,LOWKICK,FOCUSENERGY
+    AbilityIndex = 0
+Pokemon = LOTAD,8
+    Moves = GROWL,ABSORB,WATERGUN,RAINDANCE
+    AbilityIndex = 1
+#-------------------------------
+[LASS,Lilly]
+LoseText = I've been tricked!
+Pokemon = SWIRLIX,17
+    Moves = DRAININGKISS,ROUND,FAKETEARS,PLAYNICE
+    AbilityIndex = 0
+Pokemon = SWABLU,19
+    Moves = DISARMINGVOICE,ROUND,BODYSLAM,AERIALACE
+    AbilityIndex = 1
+Pokemon = CUTIEFLY,19
+    Moves = DRAININGKISS,TRAILBLAZE,CHARM,POLLENPUFF
+    AbilityIndex = 0
+#-------------------------------
+[BUGCATCHER,Billy]
+LoseText = Dang it, I gotta search for stronger bugs!
+Pokemon = BUTTERFREE,18
+    Moves = SCRATCH,LEER,LOWKICK,FOCUSENERGY
+    AbilityIndex = 0
+Pokemon = GRUBBIN,18
+    Moves = VISEGRIP,MUDSLAP,BUGBITE,BITE
+    AbilityIndex = 0
+Pokemon = SURSKIT,18
+    Moves = QUICKATTACK,SWEETSCENT,BUBBLEBEAM,MIST
+    AbilityIndex = 0
+#-------------------------------
+[CAMPER,Bobby]
+LoseText = My money!!
+Pokemon = BULBASAUR,10
+#-------------------------------
+[COOLTRAINER_M,Aren]
+LoseText = This was good training.
+Pokemon = BULBASAUR,10
+#-------------------------------
+[GENTLEMAN,Moore]
 LoseText = ...
-Pokemon = CHARMANDER,40
+Pokemon = IVYSAUR,10
+#-------------------------------
+[BLACKBELT,Rock]
+LoseText = ...
+Pokemon = BULBASAUR,10
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SCIENTIST,Eddie]
+LoseText = ...
+Pokemon = BULBASAUR,10
+#-------------------------------
+[HIKER,Arin]
+LoseText = ...
+Pokemon = IVYSAUR,10
