@@ -400,21 +400,21 @@ BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
-[LEADER_TREVOR]
+[LEADER_Trevor]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
-[LEADER_RIKU]
+[LEADER_Riku]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 110
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
-[LEADER_LINCOLN]
+[LEADER_Lincoln]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 130

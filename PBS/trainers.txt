@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[LEADER_TREVOR,Trevor]
+[LEADER_Trevor,Trevor]
 LoseText = You got me!
 Pokemon = SKIPLOOM,16
     Moves = SOLARBEAM,HIDDENPOWER,LEECHSEED,SUNNYDAY
@@ -24,7 +24,7 @@ Pokemon = SUNFLORA,18
     SuperShiny = true
     Ball = NETBALL
 #-------------------------------
-[LEADER_RIKU,Riku]
+[LEADER_Riku,Riku]
 LoseText = And that's that.
 Pokemon = STUFFUL,22
     Moves = SWORDSDANCE,BRICKBREAK,THUNDERPUNCH,MEGAPUNCH
@@ -41,9 +41,9 @@ Pokemon = ZORUA,23
     IV = 20,20,20,20,20,20
     Ball = HEALBALL
 Pokemon = STARAVIA,25
+    Name = Luna
     Moves = AERIALACE,QUICKATTACK,SUBSTITUTE,UTURN
     AbilityIndex = 0
-	Name = Luna
     Gender = female
     IV = 20,20,20,20,20,20
     SuperShiny = true
@@ -55,7 +55,7 @@ Pokemon = CHANSEY,23
     IV = 20,20,20,20,20,20
     Ball = HEALBALL
 #-------------------------------
-[LEADER_LINCOLN,Lincoln]
+[LEADER_Lincoln,Lincoln]
 LoseText = Guess I've been rocked.
 Pokemon = BOLDORE,32
     Moves = ROCKSLIDE,PROTECT,STEALTHROCK,EARTHQUAKE
@@ -77,13 +77,13 @@ Pokemon = LAIRON,33
     IV = 20,20,20,20,20,20
     Ball = DUSKBALL
 Pokemon = AERODACTYL,34
+    Name = Stoner
     Moves = DUALWINGBEAT,IRONTAIL,STONEEDGE,ROOST
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
     SuperShiny = true
     Ball = DUSKBALL
-	Name = Stoner
 #-------------------------------
 [POKEMONRANGER_F,Emily]
 LoseText = I guess you are strong enough.
@@ -147,25 +147,66 @@ Pokemon = SURSKIT,18
 #-------------------------------
 [CAMPER,Bobby]
 LoseText = My money!!
-Pokemon = BULBASAUR,10
+Pokemon = EXEGGCUTE,20
+    Moves = LEECHSEED,CONFUSION,HYPNOSIS,BULLETSEED
+    AbilityIndex = 0
+Pokemon = LOMBRE,21
+    Moves = TEETERDANCE,ABSORB,ICYWIND,MUDSLAP
+    AbilityIndex = 0
+Pokemon = CACNEA,21
+    Moves = POWERTRIP,GROWTH,BULLETSEED,SANDATTACK
+    AbilityIndex = 0
 #-------------------------------
 [COOLTRAINER_M,Aren]
 LoseText = This was good training.
-Pokemon = BULBASAUR,10
+Pokemon = SNEASEL,28
+    Form = 1
+    Moves = POISONJAB,BRICKBREAK,THIEF,METALCLAW
+    AbilityIndex = 0
+Pokemon = ANORITH,28
+    Moves = BUGBITE,ANCIENTPOWER,BRINE,SLASH
+    AbilityIndex = 0
+Pokemon = CRABRAWLER,29
+    Moves = ROCKSMASH,PAYBACK,SLAM,BUBBLEBEAM
+    AbilityIndex = 0
 #-------------------------------
 [GENTLEMAN,Moore]
-LoseText = ...
-Pokemon = IVYSAUR,10
+LoseText = Looks like I was the free win.
+Pokemon = SOLROCK,26
+    Moves = LIGHTSCREEN,COSMICPOWER,HELPINGHAND,ROUND
+    AbilityIndex = 0
+Pokemon = LUNATONE,26
+    Moves = REFLECT,COSMICPOWER,HELPINGHAND,ROUND
+    AbilityIndex = 0
 #-------------------------------
 [BLACKBELT,Rock]
-LoseText = ...
-Pokemon = BULBASAUR,10
-Pokemon = BULBASAUR,10
+LoseText = Noooo!
+Pokemon = SAWK,29
+    Moves = FIREPUNCH,BULKUP,LOWSWEEP,THUNDERPUNCH
+    AbilityIndex = 0
+Pokemon = ARCANINE,30
+    Form = 1
+    Moves = FLAMECHARGE,ROCKTHROW,ROCKSLIDE,CRUNCH
+    AbilityIndex = 0
 #-------------------------------
 [SCIENTIST,Eddie]
-LoseText = ...
-Pokemon = BULBASAUR,10
+LoseText = Seems like my Pokemon weren't enough.
+Pokemon = GOLEM,29
+    Form = 1
+    Moves = CHARGE,THUNDERPUNCH,STEALTHROCK,SMACKDOWN
+    AbilityIndex = 0
+Pokemon = LYCANROC,30
+    Moves = ACCELEROCK,BITE,ROCKTOMB,FIREFANG
+    AbilityIndex = 0
 #-------------------------------
 [HIKER,Arin]
-LoseText = ...
-Pokemon = IVYSAUR,10
+LoseText = Ha ha ha! A fine battle!
+Pokemon = SANDSLASH,29
+    Moves = FURYSWIPES,BULLDOZE,FURYCUTTER,METALCLAW
+    AbilityIndex = 0
+Pokemon = GLISCOR,30
+    Moves = THUNDERFANG,ICEFANG,FIREFANG,POISONJAB
+    AbilityIndex = 0
+Pokemon = ARCHEN,31
+    Moves = ROCKSLIDE,CRUNCH,PLUCK,DRAGONBREATH
+    AbilityIndex = 0

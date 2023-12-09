@@ -158,6 +158,9 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
+[032]   # Green's House
+Name = Leaf's Home
+#-------------------------------
 [033]   # Arbor Town Poké Center
 Name = Arbor Nursery
 ShowArea = true
@@ -516,6 +519,9 @@ Name = Cragmouth Peak
 Outdoor = true
 ShowArea = true
 #-------------------------------
+[092]   # Lincoln's House
+Name = Lincoln's Home
+#-------------------------------
 [093]   # Cragmouth Town Poké Center
 Name = Cragmouth Rest
 ShowArea = true
@@ -528,15 +534,22 @@ Name = Cragmouth Gym
 ShowArea = true
 #-------------------------------
 [096]   # Leader Room
-Name = Leader Room
+Name = Cragmouth Leader Room
 #-------------------------------
 [097]   # Trap Room 1
-Name = Trap Room 1
+Name = Cragmouth Trap
 #-------------------------------
 [098]   # Trap Room 2
+Name = Cragmouth Trap
+#-------------------------------
+[099]   # Correct Room 1
+Name = Cragmouth Puzzle
+#-------------------------------
+[100]   # Correct Room 2
+Name = Cragmouth Puzzle
 #-------------------------------
 [101]   # Trap Room 3
-Name = Trap Room 3
+Name = Cragmouth Trap
 #-------------------------------
 [103]   # Arbor City Filler
 Name = How did you get here?

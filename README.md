@@ -1,4 +1,4 @@
-# Unnamed Pokemon Project
+# Pokemon Denial of Evolution
 #### Start Date: Aug 2023
 #### End Date: TBD
 
@@ -12,3 +12,8 @@ Just a simple Pokemon game project I wanted to make from scratch in RPGMaker XP 
 09/30/2023 - First City, Routes 1, 2, 3 created and playable.  
 10/05/2023 - All LEADER sprites created.  
 10/10/2023 - Second City, Routes 4 and 5 created and playable.  
+10/20/2023 - Routes 6, 7, 8 are created and playable.  
+11/15/2023 - Third City has been created and modified.  
+11/24/2023 - Gym Leader Battles modified, encounter rates created.  
+12/01/2023 - Trainer battles added and modified.  
+12/07/2023 - First playable demo has been made! Completely playable, and in the bug testing stage.  
