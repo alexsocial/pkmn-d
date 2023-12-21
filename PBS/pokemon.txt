@@ -1610,7 +1610,7 @@ Category = Tadpole
 Pokedex = Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.
 Generation = 1
 WildItemUncommon = KINGSROCK
-Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,Item,KINGSROCK
 #-------------------------------
 [POLIWRATH]
 Name = Poliwrath
@@ -2091,7 +2091,7 @@ Category = Dopey
 Pokedex = It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
-Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
+Evolutions = SLOWBRO,Level,37,SLOWKING,Item,KINGSROCK
 #-------------------------------
 [SLOWBRO]
 Name = Slowbro
@@ -2518,7 +2518,7 @@ Habitat = Cave
 Category = Rock Snake
 Pokedex = There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.
 Generation = 1
-Evolutions = STEELIX,TradeItem,METALCOAT
+Evolutions = STEELIX,Item,METALCOAT
 #-------------------------------
 [DROWZEE]
 Name = Drowzee
@@ -2966,7 +2966,7 @@ Habitat = RoughTerrain
 Category = Drill
 Pokedex = Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
 Generation = 1
-Evolutions = RHYPERIOR,TradeItem,PROTECTOR
+Evolutions = RHYPERIOR,Item,PROTECTOR
 #-------------------------------
 [CHANSEY]
 Name = Chansey
@@ -3101,7 +3101,7 @@ Category = Dragon
 Pokedex = The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
-Evolutions = KINGDRA,TradeItem,DRAGONSCALE
+Evolutions = KINGDRA,Item,DRAGONSCALE
 #-------------------------------
 [GOLDEEN]
 Name = Goldeen
@@ -3264,7 +3264,7 @@ Habitat = Grassland
 Category = Mantis
 Pokedex = Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.
 Generation = 1
-Evolutions = SCIZOR,TradeItem,METALCOAT,KLEAVOR,Item,BLACKAUGURITE
+Evolutions = SCIZOR,Item,METALCOAT,KLEAVOR,Item,BLACKAUGURITE
 #-------------------------------
 [JYNX]
 Name = Jynx
@@ -3316,7 +3316,7 @@ Category = Electric
 Pokedex = When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz as lightning rods.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
-Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions = ELECTIVIRE,Item,ELECTIRIZER
 #-------------------------------
 [MAGMAR]
 Name = Magmar
@@ -3343,7 +3343,7 @@ Category = Spitfire
 Pokedex = In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees.
 Generation = 1
 WildItemUncommon = MAGMARIZER
-Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions = MAGMORTAR,Item,MAGMARIZER
 #-------------------------------
 [PINSIR]
 Name = Pinsir
@@ -3629,7 +3629,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.
 Generation = 1
-Evolutions = PORYGON2,TradeItem,UPGRADE
+Evolutions = PORYGON2,Item,UPGRADE
 #-------------------------------
 [OMANYTE]
 Name = Omanyte
@@ -6150,7 +6150,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.
 Generation = 2
-Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions = PORYGONZ,Item,DUBIOUSDISC
 #-------------------------------
 [STANTLER]
 Name = Stantler
@@ -9224,7 +9224,7 @@ Habitat = WatersEdge
 Category = Fish
 Pokedex = Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few trainers raise it.
 Generation = 3
-Evolutions = MILOTIC,TradeItem,PRISMSCALE,MILOTIC,Beauty,170
+Evolutions = MILOTIC,Item,PRISMSCALE,MILOTIC,Beauty,170
 #-------------------------------
 [MILOTIC]
 Name = Milotic
@@ -9413,7 +9413,7 @@ Category = Beckon
 Pokedex = It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.
 Generation = 3
 WildItemUncommon = SPELLTAG
-Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH
+Evolutions = DUSKNOIR,Item,REAPERCLOTH
 #-------------------------------
 [TROPIUS]
 Name = Tropius
@@ -9677,7 +9677,7 @@ Pokedex = A Clamperl slams its shell closed on prey to prevent escape. The pearl
 Generation = 3
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
-Evolutions = HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
+Evolutions = HUNTAIL,Item,DEEPSEATOOTH,GOREBYSS,Item,DEEPSEASCALE
 #-------------------------------
 [HUNTAIL]
 Name = Huntail
@@ -13840,7 +13840,7 @@ Pokedex = Because its energy was too great to be contained, the energy leaked an
 Generation = 5
 WildItemCommon = EVERSTONE
 WildItemUncommon = HARDSTONE
-Evolutions = GIGALITH,Trade,
+Evolutions = GIGALITH,Trade,,GIGALITH,Item,LINKINGCORD
 #-------------------------------
 [GIGALITH]
 Name = Gigalith
@@ -14052,7 +14052,7 @@ Habitat = Urban
 Category = Muscular
 Pokedex = They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
 Generation = 5
-Evolutions = CONKELDURR,Trade,
+Evolutions = CONKELDURR,Trade,,CONKELDURR,Item,LINKINGCORD
 #-------------------------------
 [CONKELDURR]
 Name = Conkeldurr
@@ -17966,7 +17966,7 @@ Habitat = Forest
 Category = Perfume
 Pokedex = It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.
 Generation = 6
-Evolutions = AROMATISSE,TradeItem,SACHET
+Evolutions = AROMATISSE,Item,SACHET
 #-------------------------------
 [AROMATISSE]
 Name = Aromatisse
@@ -18018,7 +18018,7 @@ Habitat = Urban
 Category = Cotton Candy
 Pokedex = To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.
 Generation = 6
-Evolutions = SLURPUFF,TradeItem,WHIPPEDDREAM
+Evolutions = SLURPUFF,Item,WHIPPEDDREAM
 #-------------------------------
 [SLURPUFF]
 Name = Slurpuff
@@ -18641,7 +18641,7 @@ Habitat = Forest
 Category = Stump
 Pokedex = These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.
 Generation = 6
-Evolutions = TREVENANT,Trade,
+Evolutions = TREVENANT,Trade,,TREVENANT,Item,LINKINGCORD
 #-------------------------------
 [TREVENANT]
 Name = Trevenant
@@ -18694,7 +18694,7 @@ Category = Pumpkin
 Pokedex = When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.
 Generation = 6
 Flags = InheritFormFromMother
-Evolutions = GOURGEIST,Trade,
+Evolutions = GOURGEIST,Trade,,GOURGEIST,Item,LINKINGCORD
 #-------------------------------
 [GOURGEIST]
 Name = Gourgeist
@@ -26684,3 +26684,28 @@ Category = Mask
 Pokedex = This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.
 Generation = 9
 Flags = Legendary,TeraType_GRASS
+#-------------------------------
+[DRACONEON]
+Name = Draconeon
+Types = NORMAL,DRAGON
+BaseStats = 80,75,80,105,100,90
+GenderRatio = FemaleOneEighth
+GrowthRate = Medium
+BaseExp = 184
+EVs = SPECIAL_ATTACK,2
+CatchRate = 45
+Happiness = 50
+Abilities = CLOUDNINE,INTIMIDATE
+HiddenAbilities = DRAGONBLOOD
+Moves = 0,FURIOUSSCREECH,1,BATONPASS,1,DRAGONBREATH,1,QUICKATTACK,10,CONSTRICT,13,DEFENSECURL,18,ECHOEDVOICE,20,SWIFT,23,FAKEOUT,26,TWISTER,30,DRAGONBREATH,37,RETURN,40,FLAMETHROWER,42,NOBLEROAR,45,WATERPULSE,55,TRIATTACK,62,BOOMBURST,67,DRACOMETEOR,75,BITTERMALICE
+TutorMoves = AMNESIA,ATTRACT,BLIZZARD,BLOCK,BREAKINGSWIPE,BULLDOZE,CALMMIND,CAPTIVATE,CONFIDE,DEFOG,DOUBLETEAM,DRACOMETEOR,DRAGONCLAW,DRAGONDANCE,DRAGONPULSE,DRAGONTAIL,EARTHQUAKE,ECHOEDVOICE,ENDEAVOR,ENDURE,ENERGYBALL,FACADE,FIREBLAST,FLAMETHROWER,FLING,FLY,FOCUSBLAST,FRUSTRATION,GIGAIMPACT,GRASSKNOT,HEATWAVE,HELPINGHAND,HIDDENPOWER,HURRICANE,HYDROPUMP,HYPERBEAM,HYPERVOICE,ICEBEAM,ICYWIND,LASHOUT,LIGHTSCREEN,MIMIC,NATURALGIFT,NATUREPOWER,OUTRAGE,PLAYROUGH,PROTECT,PSYCHUP,RAINDANCE,REST,RETURN,ROAR,ROCKSLIDE,ROOST,ROUND,SAFEGUARD,SCALESHOT,SECRETPOWER,SHADOWBALL,SHADOWCLAW,SHOCKWAVE,SIGNALBEAM,SLEEPTALK,SNARL,SNORE,SOLARBEAM,STEELWING,STOMPINGTANTRUM,SUBSTITUTE,SUNNYDAY,SUPERPOWER,SURF,SWIFT,TAILWIND,THUNDER,THUNDERBOLT,THUNDERWAVE,TOXIC,UPROAR,WATERPULSE,WORKUP
+EggGroups = Field
+HatchSteps = 8960
+Height = 0.9
+Weight = 25.0
+Color = Black
+Shape = Quadruped
+Habitat = Urban
+Category = Scorned
+Pokedex = Draconeon is born of special Eevees who have lived lives of scorn and regret. Their screams are known for leaving children deaf.
+Generation = 9

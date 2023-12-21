@@ -9814,3 +9814,29 @@ FunctionCode = BadPoisonTarget
 Flags = Contact,CanProtect,CanMirrorMove,Punching
 EffectChance = 15
 Description = Punches the target with contaminated water. May badly poison the target.
+#-------------------------------
+[STEELSURGE]
+Name = Steelsurge
+Type = STEEL
+Category = Physical
+Power = 120
+Accuracy = 95
+TotalPP = 5
+Target = NearOther
+FunctionCode = RecoilHalfOfDamageDealtParalyzeTarget
+Flags = Contact,CanProtect,CanMirrorMove
+EffectChance = 40
+Description = Channels magnetic energy and wildly charges at the opponent, damaging the user. May leave the target paralyzed.
+#-------------------------------
+[FURIOUSSCREECH]
+Name = Furious Screech
+Type = NORMAL
+Category = Special
+Power = 100
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = RaiseUserSpAtk1
+Flags = CanProtect,CanMirrorMove,Sound
+EffectChance = 30
+Description = The user screams with all of its rage, leaving targets dazed. May raise the user's special attack.

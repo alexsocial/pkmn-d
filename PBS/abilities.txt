@@ -1226,3 +1226,7 @@ Description = The user's shining mask raises its Attack stat.
 [EMBODYASPECT_3]
 Name = Embody Aspect
 Description = The user's shining mask raises its Defense stat.
+#-------------------------------
+[DRAGONBLOOD]
+Name = Dragonblood
+Description = Normal-type moves become Dragon-type and powered up.

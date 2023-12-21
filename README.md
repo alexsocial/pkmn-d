@@ -17,3 +17,4 @@ Just a simple Pokemon game project I wanted to make from scratch in RPGMaker XP 
 11/24/2023 - Gym Leader Battles modified, encounter rates created.  
 12/01/2023 - Trainer battles added and modified.  
 12/07/2023 - First playable demo has been made! Completely playable, and in the bug testing stage.  
+12/21/2023 - 0.1.7 Released!

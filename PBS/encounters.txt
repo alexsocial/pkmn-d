@@ -312,76 +312,88 @@ Land,21
 #-------------------------------
 [080] # Route 001
 LandMorning,21
-    25,CHINGLING,4,6
-    25,PICHU,4,6
-    25,SUNKERN,4,6
-    25,TOGEPI,4,6
+    25,CHINGLING,3,4
+    25,PICHU,3,4
+    25,SUNKERN,3,4
+    25,TOGEPI,3,4
 Land,21
-    12,BIDOOF,4,6
-    12,FLETCHLING,4,6
-    12,PIDGEY,4,6
-    12,PIDOVE,4,6
-    12,RATTATA,4,6
-    12,STARLY,4,6
-    12,TAILLOW,4,6
-    4,AIPOM,4,6
+    12,BIDOOF,3,4
+    13,FLETCHLING,3,4
+    13,PIDGEY,3,4
+    13,PIDOVE,3,4
+    13,PIKIPEK,3,4
+    13,STARLY,3,4
+    7,TAILLOW,3,4
+    4,AIPOM,3,4
 LandNight,21
-    30,HOOTHOOT,4,6
-    30,RATTATA,4,6
-    15,WOOLOO,4,6
-    10,BUNEARY,4,6
-    10,MINCCINO,4,6
-    5,JIGGLYPUFF,4,6
+    30,HOOTHOOT,3,4
+    30,RATTATA,3,4
+    15,WOOLOO,3,4
+    10,BUNEARY,3,4
+    10,MINCCINO,3,4
+    5,JIGGLYPUFF,3,4
 #-------------------------------
 [081] # Route 002
+LandMorning,21
+    50,HOPPIP,5,7
+    25,RIOLU,5,7
+    25,MAGNEMITE,5,7
 Land,21
-    30,PATRAT,5,8
-    20,PANSAGE,5,8
-    20,PANSEAR,5,8
-    19,PANPOUR,5,8
-    10,LOTAD,5,8
-    1,EEVEE,5,8
+    30,AUDINO,5,7
+    20,PANSAGE,5,7
+    20,PANSEAR,5,7
+    19,PANPOUR,5,7
+    10,LOTAD,5,7
+    1,EEVEE,5,7
 LandNight,21
-    40,HOPPIP,5,8
-    25,BELLSPROUT,5,8
-    15,AUDINO,5,8
-    15,SHINX,5,8
-    5,POOCHYENA,5,8
+    40,GASTLY,5,7
+    25,BELLSPROUT,5,7
+    15,EKANS,5,7
+    15,SHINX,5,7
+    5,POOCHYENA,5,7
 #-------------------------------
 [082] # Route 003
+LandMorning,21
+    34,CHERUBI,8,11
+    33,HAPPINY,8,11
+    33,SMOOCHUM,8,11
 Land,21
-    25,CHERUBI,6,10
-    20,GROWLITHE,6,10
-    20,MANKEY,6,10
-    20,VULPIX,6,10
-    10,RATTATA_1,6,10
-    5,COMBEE,6,10
+    25,LEDYBA,8,11
+    20,GROWLITHE,8,11
+    20,MANKEY,8,11
+    20,VULPIX,8,11
+    10,RATTATA_1,8,11
+    5,CUTIEFLY,8,11
 LandNight,21
-    40,ZIGZAGOON,6,10
-    25,TRUBBISH,6,10
-    20,CUTIEFLY,6,10
-    10,DRIFLOON,6,10
-    5,ZORUA,6,10
+    40,ZIGZAGOON,8,11
+    25,TRUBBISH,8,11
+    20,TYROGUE,8,11
+    10,DRIFLOON,8,11
+    5,ZORUA,8,11
 Water,2
     60,MAGIKARP,14,19
     30,STARYU,15,16
     10,GOLDEEN,14,16
 #-------------------------------
 [083] # Route 004
+LandMorning,21
+    40,BUDEW,17,19
+    40,PURRLOIN,17,19
+    20,APPLIN,17,19
 Land,21
-    25,GRUBBIN,16,19
-    25,METAPOD,16,19
-    25,YUNGOOS,16,19
-    10,SALANDIT,16,19
-    10,SCRAGGY,16,19
-    5,VANILLITE,16,19
+    25,YUNGOOS,17,19
+    25,GRUBBIN,17,19
+    25,METAPOD,17,19
+    10,SALANDIT,17,19
+    10,SCRAGGY,17,19
+    5,VANILLITE,17,19
 LandNight,21
-    30,SPINARAK,16,19
-    20,MORELULL,16,19
-    20,PANCHAM,16,19
-    20,TRUMBEAK,16,19
-    5,NIDORINA,16,19
-    5,NIDORINO,16,19
+    30,SPINARAK,17,19
+    20,MORELULL,17,19
+    20,PANCHAM,17,19
+    20,DROWZEE,17,19
+    5,NIDORINA,17,19
+    5,NIDORINO,17,19
 #-------------------------------
 [084] # Route 005
 LandMorning,21
@@ -389,17 +401,17 @@ LandMorning,21
     30,BUTTERFREE,20,22
     20,BEEDRILL,20,22
 Land,21
-    20,KARRABLAST,20,22
-    20,SHELMET,20,22
+    20,PONYTA_1,20,22
+    20,MAREEP,20,22
     18,SWIRLIX,20,22
-    15,BUDEW,20,22
+    15,VENONAT,20,22
     15,NUZLEAF,20,22
-    10,APPLIN,20,22
+    10,DUSKULL,20,22
     2,LOMBRE,21,23
 LandNight,21
     30,TYMPOLE,20,22
     20,JOLTIK,20,22
-    20,PURRLOIN,20,22
+    20,PHANTUMP,20,22
     20,TOXEL,20,22
     8,NINCADA,20,22
     2,ARIADOS,22,23
@@ -442,3 +454,36 @@ Land,21
 LandNight,21
     50,SAWK,29,30
     50,THROH,29,30
+#-------------------------------
+[022] # Arbor City
+Land,21
+    35,FOMANTIS,13,15
+    35,SMOLIV,13,15
+    30,GOSSIFLEUR,13,15
+LandNight,21
+    45,CACNEA,13,15
+    45,MARACTUS,13,15
+    10,FOONGUS,13,15
+#-------------------------------
+[085] # Healrule City
+Land,21
+    40,MEOWTH,22,24
+    40,EEVEE,22,24
+    18,LILLIPUP,22,24
+    2,DITTO,22,24
+LandNight,21
+    30,SMEARGLE,22,24
+    20,LITLEO,22,24
+    20,HELIOPTILE,22,24
+#-------------------------------
+[107] # Cragmouth Encounter
+Cave,5
+    25,BOLDORE,31,32
+    25,OMANYTE,31,32
+    25,DWEBBLE,31,32
+    25,GLIMMET,31,32
+CaveNight,5
+    25,NACLSTACK,31,32
+    25,TIRTOUGA,31,32
+    25,KABUTO,31,32
+    25,NOSEPASS,31,32

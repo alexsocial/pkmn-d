@@ -58,7 +58,7 @@ Pokemon = CHANSEY,23
 [LEADER_Lincoln,Lincoln]
 LoseText = Guess I've been rocked.
 Pokemon = BOLDORE,32
-    Moves = ROCKSLIDE,PROTECT,STEALTHROCK,EARTHQUAKE
+    Moves = ROCKSLIDE,PROTECT,STEALTHROCK,BULLDOZE
     AbilityIndex = 0
     Item = LEFTOVERS
     Gender = male
