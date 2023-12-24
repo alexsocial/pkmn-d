@@ -26688,7 +26688,7 @@ Flags = Legendary,TeraType_GRASS
 [DRACONEON]
 Name = Draconeon
 Types = NORMAL,DRAGON
-BaseStats = 80,75,80,105,100,90
+BaseStats = 60,65,65,130,110,95
 GenderRatio = FemaleOneEighth
 GrowthRate = Medium
 BaseExp = 184

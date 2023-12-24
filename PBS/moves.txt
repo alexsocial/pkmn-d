@@ -9812,7 +9812,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = BadPoisonTarget
 Flags = Contact,CanProtect,CanMirrorMove,Punching
-EffectChance = 15
+EffectChance = 20
 Description = Punches the target with contaminated water. May badly poison the target.
 #-------------------------------
 [STEELSURGE]
@@ -9838,5 +9838,5 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = RaiseUserSpAtk1
 Flags = CanProtect,CanMirrorMove,Sound
-EffectChance = 30
+EffectChance = 20
 Description = The user screams with all of its rage, leaving targets dazed. May raise the user's special attack.
