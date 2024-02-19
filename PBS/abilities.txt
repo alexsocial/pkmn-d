@@ -1230,3 +1230,7 @@ Description = The user's shining mask raises its Defense stat.
 [DRAGONBLOOD]
 Name = Dragonblood
 Description = Normal-type moves become Dragon-type and powered up.
+#-------------------------------
+[FREEZINGTOUCH]
+Name = Freezing Touch
+Description = May freeze targets when the user makes contact.

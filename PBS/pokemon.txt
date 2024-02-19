@@ -651,7 +651,7 @@ Category = Mouse
 Pokedex = It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.
 Generation = 1
 WildItemUncommon = LIGHTBALL
-Evolutions = RAICHU,Item,THUNDERSTONE
+Evolutions = RAICHU,Item,THUNDERSTONE,RAICHU,DawnStoneFormOne,DAWNSTONE,RAICHU,MetalCoatFormTwo,METALCOAT
 #-------------------------------
 [RAICHU]
 Name = Raichu
@@ -3528,7 +3528,7 @@ Habitat = Urban
 Category = Evolution
 Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
 Generation = 1
-Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,,DRACONEON,Item,MOONSTONE
 #-------------------------------
 [VAPOREON]
 Name = Vaporeon

@@ -85,6 +85,39 @@ Pokemon = AERODACTYL,34
     SuperShiny = true
     Ball = DUSKBALL
 #-------------------------------
+[LEADER_Sophia,Sophia]
+LoseText = You're about halfway now.
+Pokemon = NINETALES_1,39
+    Moves = AURORAVEIL,DAZZLINGGLEAM,ICYWIND,ICEBEAM
+    AbilityIndex = 1
+    Item = LIGHTCLAY
+    IV = 20,20,20,20,20,20
+    Ball = ULTRABALL
+Pokemon = MAMOSWINE,40
+    Moves = ANCIENTPOWER,ICESHARD,BULLDOZE,SNOWSCAPE
+    AbilityIndex = 1
+    IV = 20,20,20,20,20,20
+    Ball = ULTRABALL
+Pokemon = FROSLASS,41
+    Moves = DESTINYBOND,HEX,FROSTBREATH,SNOWSCAPE
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+    Ball = ULTRABALL
+Pokemon = GLALIE,41
+    Moves = FROSTBREATH,BODYSLAM,GYROBALL,SHADOWBALL
+    AbilityIndex = 0
+    Item = GLALITITE
+    IV = 20,20,20,20,20,20
+    Ball = ULTRABALL
+Pokemon = WEAVILE,42
+    Name = Yuki
+    Moves = TRIPLEAXEL,KNOCKOFF,ICESHARD,LOWKICK
+    AbilityIndex = 0
+    Item = HEAVYDUTYBOOTS
+    IV = 20,20,20,20,20,20
+    SuperShiny = true
+    Ball = ULTRABALL
+#-------------------------------
 [POKEMONRANGER_F,Emily]
 LoseText = I guess you are strong enough.
 Pokemon = SPRIGATITO,14

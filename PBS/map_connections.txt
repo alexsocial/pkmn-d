@@ -26,6 +26,12 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Arbor City (22) - Route 004 (83)
+22,North,0,83,South,4
+# Arbor City Filler (103) - Arbor City (22)
+103,East,7,22,West,0
+# Route 003 (82) - Arbor City (22)
+82,East,0,22,West,8
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Ingido Plateau outside (35) - Route 3 (31)
@@ -38,29 +44,25 @@
 41,South,6,45,North,0
 # Battle Frontier (52) - Route 7 (47)
 52,West,0,47,East,8
+# Root Town (48) - Route 001 (80)
+48,East,0,80,West,5
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Route 001 (80) - Route 002 (81)
+80,South,0,81,North,2
+# Route 002 (81) - Route 003 (82)
+81,East,2,82,West,0
+# Route 003 (82) - Arbor City Filler (103)
+82,North,26,103,South,0
+# Route 004 (83) - Route 005 (84)
+83,North,0,84,South,0
+# Route 005 (84) - Healrule City (85)
+84,North,0,85,South,18
+# Healrule City (85) - Cragmouth City (90)
+85,14,0,90,0,95
 # Route 008 (89) - Route 006 (87)
 89,24,68,87,0,0
 # Route 006 (87) - Route 007 (88)
 87,57,0,88,0,1
-# Route 005 (84) - Healrule City (85)
-84,North,0,85,South,18
-# Route 004 (83) - Route 005 (84)
-83,North,0,84,South,0
-# Arbor City (22) - Route 004 (83)
-22,North,0,83,South,4
-# Arbor City Filler (103) - Arbor City (22)
-103,East,7,22,West,0
-# Route 003 (82) - Arbor City (22)
-82,East,0,22,West,8
-# Route 003 (82) - Arbor City Filler (103)
-82,North,26,103,South,0
-# Route 002 (81) - Route 003 (82)
-81,East,2,82,West,0
-# Route 001 (80) - Route 002 (81)
-80,South,0,81,North,2
-# Root Town (48) - Route 001 (80)
-48,East,0,80,West,5
-# Healrule City (85) - Cragmouth City (90)
-85,14,0,90,0,95
+# Frostburn City (110) - Route 010 (109)
+110,South,2,109,North,0
